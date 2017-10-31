@@ -6,6 +6,9 @@
 	} else {
 		echo "<p><a href='index.php'>Homepage</a></p>";
 	}
+	
+	echo "<p>Copyright 2016 | Afifah Ilyana</p>";
+	
 ?>
 </footer>
 </body>
