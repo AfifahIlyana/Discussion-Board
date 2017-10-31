@@ -1,0 +1,102 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Dosis', sans-serif;
+	background-color: #eee;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 30px auto;
+	background-color: #fff;
+	margin-bottom: 100px;
+}
+
+.dummySpace {
+	margin: 300px;
+}
+
+#align, tr, td {
+	text-align: left;
+}
+
+.id {
+	text-align: center;
+}
+
+.title, .date {
+	padding: 5px;
+}
+
+#content {
+	padding: 10px;
+}
+
+#reply {
+	resize: vertical;
+	width: 600px;
+	height: 100px;
+}
+
+#replyForm {
+	background-color: #eee;
+	margin: auto;
+	margin-top: -50px;
+}
+
+.header {
+	background-color: #ccc;
+	font-family: 'Chewy', cursive;
+	letter-spacing: 2px;
+	padding: 5px;
+}
+
+.wrapper{
+	text-align: center;
+}
+
+.pText {
+	margin-top: -70px;
+}
+
+.form {
+	background-color: #eee;
+	width: 300px;
+	margin: auto;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.delTable {
+	margin-bottom: 0px;
+}
+
+.delOtherwise {
+	margin-bottom: 100px;
+}
+
+.btn {
+	margin-top: 20px;
+}
+
+.del {
+	text-align: right;
+	padding-right: 15px;
+}
+
+.by {
+	padding-left: 15px;
+}
+
+.mote {
+	text-decoration: none;
+}
+
+footer {
+	background-color: #ccc;
+	padding: 5px;
+	position: fixed;
+    left: 0;
+	right: 0;
+    bottom: 0;
+}
